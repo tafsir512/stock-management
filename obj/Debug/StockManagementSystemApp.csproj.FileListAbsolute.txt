@@ -1,0 +1,84 @@
+C:\Users\ishaa\Documents\Dot Net Practise Apps\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Documents\Dot Net Practise Apps\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Documents\Dot Net Practise Apps\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Documents\Dot Net Practise Apps\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Documents\Dot Net Practise Apps\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Documents\Dot Net Practise Apps\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Desktop\Project\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Version 1\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Desktop\Project\Version 1\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Version 1\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Version 1\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\Project\Version 1\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Version 1\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 1\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 1\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 1\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 1\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 1\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 1\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 2\Version 2\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 2\Version 2\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 2\Version 2\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 2\Version 2\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 2\Version 2\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 2\Version 2\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 3\version 3\Version 3\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 3\version 3\Version 3\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 3\version 3\Version 3\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 3\version 3\Version 3\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 3\version 3\Version 3\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 3\version 3\Version 3\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 4\Version 4\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 4\Version 4\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 4\Version 4\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 4\Version 4\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 4\Version 4\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 4\Version 4\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 5\Version 5\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 5\Version 5\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 5\Version 5\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 5\Version 5\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 5\Version 5\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 5\Version 5\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 7\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 7\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 7\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 7\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 7\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 7\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 9\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 9\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 9\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 9\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 9\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 9\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 10\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 10\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 10\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 10\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 10\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Version 10\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Final experiment\Version 12\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Desktop\Project\Ishar Project\Final experiment\Version 12\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Final experiment\Version 12\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Project\Ishar Project\Final experiment\Version 12\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\Project\Ishar Project\Final experiment\Version 12\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Project\Ishar Project\Final experiment\Version 12\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Final Project\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Desktop\Final Project\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Final Project\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Desktop\Final Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Desktop\Final Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Desktop\Final Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
+H:\Final Project\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+H:\Final Project\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+H:\Final Project\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+H:\Final Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+H:\Final Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+H:\Final Project\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\ishaa\Documents\Dot Net Practise Apps\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll.config
+C:\Users\ishaa\Documents\Dot Net Practise Apps\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.dll
+C:\Users\ishaa\Documents\Dot Net Practise Apps\StockManagementSystemApp\StockManagementSystemApp\bin\StockManagementSystemApp.pdb
+C:\Users\ishaa\Documents\Dot Net Practise Apps\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\ishaa\Documents\Dot Net Practise Apps\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.dll
+C:\Users\ishaa\Documents\Dot Net Practise Apps\StockManagementSystemApp\StockManagementSystemApp\obj\Debug\StockManagementSystemApp.pdb
